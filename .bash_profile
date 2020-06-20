@@ -12,6 +12,3 @@ PATH=/users/julenka/bin:$PATH
 	# Android tools
 PATH=/Users/julenka/Library/Android/sdk/platform-tools:$PATH
 
-# Visual Studio code
-code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
-
